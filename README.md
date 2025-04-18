@@ -6,7 +6,7 @@
 This repository consists of the code for the respective blogs, 
 - Interestingly you can find code related to Azure, Docker, Terraform and .Net Framework.
 - It has industry standard code which is continously updated on the trends.
-- If you have any queries/CoLab/suggestions you can reach me out on [linkedIn](https://www.linkedin.com/in/yogeshwaran-t-090145169/)
+- If you have any queries/CoLab/suggestions you can reach me out on [linkedIn](https://www.linkedin.com/in/devopswith-yoge-220347338/)
 <h1 align="center">
     <img height="350" src="https://github.com/AllAboutAzure/allaboutazure/assets/156210181/a3c7cd8d-ab77-49f8-9ccb-d4ed0e999660">
 </h1>
